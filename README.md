@@ -1,6 +1,6 @@
 ## Team Git Workflow
 
-### DEMO CHANGES CHANGES NUMBER 1
+### DEMO CHANGES CHANGES NUMBER 1 - update-name branch
 
 ### To Do
 - [] Git vs Github
